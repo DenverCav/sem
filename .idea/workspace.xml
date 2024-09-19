@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1dcbcee-8377-49ae-8bde-39cf73a240af" name="Changes" comment="" />
+    <list default="true" id="f1dcbcee-8377-49ae-8bde-39cf73a240af" name="Changes" comment="First Commit, adding initial files. Denver Cavan - 40646484@live.napier.ac.uk" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,11 +63,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726760970721</updated>
-      <workItem from="1726760971816" duration="394000" />
+      <workItem from="1726760971816" duration="856000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit, adding initial files. Denver Cavan - 40646484@live.napier.ac.uk">
+      <option name="closed" value="true" />
+      <created>1726761636552</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726761636552</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit, adding initial files. Denver Cavan - 40646484@live.napier.ac.uk" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit, adding initial files. Denver Cavan - 40646484@live.napier.ac.uk" />
   </component>
 </project>
